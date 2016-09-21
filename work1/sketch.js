@@ -1,3 +1,11 @@
+/**
+ * Kevin's comments:  Great work so far!
+ * the next step is for you to find patterns in the hard coded numbers so you can turn some of them into 
+ * variables.  If you notice yourself using the same number over and over,
+ * consider creating a variable so you can just reference the variable name inside of your drawing function calls
+ * When we get to the lesson on looping, you will also be able to cut down on the amount of code written by utilizing 
+ * loops.
+ */
 function setup() {
  createCanvas(900,900);
  
